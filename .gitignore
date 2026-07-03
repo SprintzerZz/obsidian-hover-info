@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Build output (keep main.js for releases)
+# main.js is committed intentionally for direct installation
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude/
+
+# Environment
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# npm
+npm-debug.log*

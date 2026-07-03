@@ -1,0 +1,35 @@
+/* Hover Info Tooltip Styles */
+
+.hover-info-tooltip {
+  position: fixed;
+  z-index: 1000;
+  pointer-events: auto;
+  padding: 10px 14px;
+  border-radius: 8px;
+  background: var(--background-primary);
+  border: 1px solid var(--background-modifier-border);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--text-normal);
+  white-space: normal;
+  word-wrap: break-word;
+  transition: opacity 0.1s ease;
+}
+
+/* Tags styling */
+.hover-info-tag {
+  display: inline-block;
+  padding: 2px 6px;
+  margin: 2px 2px;
+  border-radius: 4px;
+  background: var(--tag-background);
+  color: var(--tag-color);
+  font-size: 11px;
+}
+
+/* Meta info styling */
+.hover-info-meta {
+  color: var(--text-muted);
+  font-size: 11px;
+}

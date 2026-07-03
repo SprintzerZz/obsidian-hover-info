@@ -1,0 +1,20 @@
+{
+  "name": "obsidian-hover-info",
+  "version": "1.0.0",
+  "description": "Show file counts on folder hover and file summaries on file hover in the Obsidian file explorer.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production"
+  },
+  "keywords": ["obsidian", "obsidian-plugin"],
+  "author": "Sp",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "esbuild": "^0.19.0",
+    "obsidian": "latest",
+    "tslib": "^2.6.0",
+    "typescript": "^5.3.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "hover-info",
+  "name": "Hover Info",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Show file counts on folder hover and file summaries on file hover in the file explorer.",
+  "author": "",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
