@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="icon.png" width="80" alt="Hover Info" />
   <h1 align="center">Hover Info</h1>
   <p align="center">
     <strong>English</strong> | <a href="#中文">中文</a>
@@ -84,7 +83,7 @@ summary: 10 tips for managing notes efficiently in Obsidian
 
 ```markdown
 ---
-desc: 2024 reading list and reviews
+desc: 2026 reading list and reviews
 ---
 ```
 
@@ -323,7 +322,7 @@ summary: 介绍如何在 Obsidian 中高效管理笔记的 10 个技巧
 
 ```markdown
 ---
-desc: 2024 年读书清单与读后感
+desc: 2026 年读书清单与读后感
 ---
 ```
 
