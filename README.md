@@ -35,10 +35,6 @@ An [Obsidian](https://obsidian.md) plugin that enriches the file explorer with h
 3. Copy the three files into that folder
 4. In Obsidian, go to **Settings → Community Plugins**, enable **Hover Info**
 
-### Via BRAT
-
-1. Install the [BRAT](https://github.com/TfTHacker/obsidian42-brat) plugin
-2. Add `yourname/obsidian-hover-info` as a beta plugin
 
 ### From Source
 
@@ -278,10 +274,6 @@ MIT
 3. 将三个文件放入该文件夹
 4. 打开 Obsidian → **设置 → 第三方插件**，启用 **Hover Info**
 
-### 通过 BRAT 安装
-
-1. 安装 [BRAT](https://github.com/TfTHacker/obsidian42-brat) 插件
-2. 添加 `SprintzerZz/obsidian-hover-info` 为 Beta 插件
 
 ### 从源码构建
 
